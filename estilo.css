@@ -1,0 +1,92 @@
+#container-home{
+    width: 100%;
+    height: auto;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+#contenedorBEcolumn{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#contenedorH{
+    width: 20%;  
+    height: auto; 
+    display:flex;
+    flex-direction: column;
+    
+}
+#contenedor2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#contenedorBErow{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#contenedor1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+#rowB{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+#rowE{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.boxA{
+    height: 95px;
+    background-color: chocolate;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    
+}
+.boxB{
+    width: 293px;
+    height: 293px;
+    background-color: chocolate;  
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+.boxH{
+    width: auto;
+    height: 610px;
+    background-color: chocolate;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center
+    
+}
